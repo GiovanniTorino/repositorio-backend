@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "peca":"Camisa",
+        "sexo":"UniSex",
+        "qualidade":"5/6",
+        "tamanho":"P",
+        "cor":"Azul",
+        "marca":"Nike",
+        "doador":"Regina"
+    },
+    {
+        "id":2,
+        "peca":"Camisa",
+        "sexo":"Masculino",
+        "qualidade":"6/6",
+        "tamanho":"M",
+        "cor":"Vermelho",
+        "marca":"Pumma",
+        "doador":"Agatha"
+    },
+    {
+        "id": 3,
+        "peca": "Camisa",
+        "sexo": "Masculino",
+        "qualidade": "6/6",
+        "tamanho": "M",
+        "cor": "Azul",
+        "marca": "Pumma",
+        "doador": "Saimon"
+    }
+]

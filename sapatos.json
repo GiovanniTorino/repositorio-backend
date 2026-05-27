@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "peca": "Sapato",
+        "sexo": "Masculino",
+        "qualidade": "5/6",
+        "tamanho": "40",
+        "cor": "Azul",
+        "marca": "Nike",
+        "doador": "Clauber"
+    },
+    {
+        "id":2,
+        "peca": "Sapato",
+        "sexo": "Feminino",
+        "qualidade": "6/6",
+        "tamanho": "38",
+        "cor": "Rosa",
+        "marca": "Pumma",
+        "doador": "Agatha"
+    }
+]

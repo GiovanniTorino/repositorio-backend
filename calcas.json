@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "peca": "Cal\u00c3\u00a7a",
+        "sexo": "Masculina",
+        "qualidade": "6/6",
+        "tamanho": "38",
+        "cor": "Azul",
+        "marca": "Pumma",
+        "doador": "Cleiton"
+    },
+    {
+        "id": 2,
+        "peca": "Cal\u00c3\u00a7a",
+        "sexo": "Unisex",
+        "qualidade": "5/6",
+        "tamanho": "36",
+        "cor": "Preta",
+        "marca": "Pumma",
+        "doador": "Arthur"
+    },
+    {
+        "id": 3,
+        "peca": "Cal\u00e7a",
+        "sexo": "Masculina",
+        "qualidade": "6/6",
+        "tamanho": "35",
+        "cor": "Azul",
+        "marca": "Pumma",
+        "doador": "Gisele"
+    }
+]

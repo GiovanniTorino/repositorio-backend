@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "peca": "Agasalho",
+        "sexo": "Feminino",
+        "qualidade": "6/6",
+        "tamanho": "G",
+        "cor": "Azul",
+        "marca": "Pumma",
+        "doador": "Kleber"
+    },
+    {
+        "id": 2,
+        "peca": "Agasalho",
+        "sexo": "Unisex",
+        "qualidade": "5/6",
+        "tamanho": "P",
+        "cor": "Preta",
+        "marca": "Pumma",
+        "doador": "Galv\u00c3\u00a3o"
+    },
+    {
+        "id": 3,
+        "peca": "Agasalho",
+        "sexo": "Feminino",
+        "qualidade": "6/6",
+        "tamanho": 40,
+        "cor": "Azul",
+        "marca": "Pumma",
+        "doador": "Kleber"
+    },
+    {
+        "id": 4,
+        "peca": "Agasalho",
+        "sexo": "Feminino",
+        "qualidade": "6/6",
+        "tamanho": 40,
+        "cor": "Azul",
+        "marca": "Pumma",
+        "doador": "Kleber"
+    }
+]
